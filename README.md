@@ -1,4 +1,4 @@
-# Explore and try the api using the url
+# Explore and try it using the url
 http://localhost:8080/showLocation
 
 
